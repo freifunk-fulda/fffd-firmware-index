@@ -1,0 +1,21 @@
+<p>
+F&uuml;r die folgenden Entwicklungszweige stehen Releases zur verf&uuml;gung:
+</p>
+
+<style>
+dt {
+  float: left;
+  width: 7em;
+}
+
+dt:after {
+  content: ":";
+}
+</style>
+
+<dl>
+<dt><a href="stable">stable</a></dt>
+<dd>Ausgiebig getestete Firmware-Images, die f&uuml;r die allgemeine Verwendung gedacht sind.</dd>
+<dt><a href="development">development</a></dt>
+<dd>Stetig weiterentwickelte Firmware-Images die h&auml;ufigen &Auml;nderungen unterliegen und oft aktualisiert werden.</dd>
+</dl>

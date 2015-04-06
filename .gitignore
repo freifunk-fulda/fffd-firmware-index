@@ -1,0 +1,9 @@
+.*.swp
+
+/.ssh
+
+/stable/**
+/development/**
+
+!/stable/.readme
+!/development/.readme
